@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Restorent/static/css/main.08886f72.chunk.css",
+    "main.js": "/Restorent/static/js/main.e2db0277.chunk.js",
+    "main.js.map": "/Restorent/static/js/main.e2db0277.chunk.js.map",
+    "runtime-main.js": "/Restorent/static/js/runtime-main.a9e7ea9a.js",
+    "runtime-main.js.map": "/Restorent/static/js/runtime-main.a9e7ea9a.js.map",
+    "static/css/2.6b6603b4.chunk.css": "/Restorent/static/css/2.6b6603b4.chunk.css",
+    "static/js/2.ffb18be1.chunk.js": "/Restorent/static/js/2.ffb18be1.chunk.js",
+    "static/js/2.ffb18be1.chunk.js.map": "/Restorent/static/js/2.ffb18be1.chunk.js.map",
+    "static/js/3.ae7b310e.chunk.js": "/Restorent/static/js/3.ae7b310e.chunk.js",
+    "static/js/3.ae7b310e.chunk.js.map": "/Restorent/static/js/3.ae7b310e.chunk.js.map",
+    "index.html": "/Restorent/index.html",
+    "static/css/2.6b6603b4.chunk.css.map": "/Restorent/static/css/2.6b6603b4.chunk.css.map",
+    "static/css/main.08886f72.chunk.css.map": "/Restorent/static/css/main.08886f72.chunk.css.map",
+    "static/js/2.ffb18be1.chunk.js.LICENSE.txt": "/Restorent/static/js/2.ffb18be1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Restorent/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e7ea9a.js",
+    "static/css/2.6b6603b4.chunk.css",
+    "static/js/2.ffb18be1.chunk.js",
+    "static/css/main.08886f72.chunk.css",
+    "static/js/main.e2db0277.chunk.js"
+  ]
+}
